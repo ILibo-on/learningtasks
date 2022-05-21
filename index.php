@@ -18,9 +18,8 @@ $page = (isset($_GET['page']) && $_GET['page'] != '') ? $_GET['page'] : '';
      </script>
          <div id="wrapper">
            <div id="header">
-               <h1>CASE STUDY:
-
-WEB DESIGNER PORTFOLIO </h1>
+               <h1>CASE STUDY: WEB DESIGNER PORTFOLIO </h1>
+                   <h2>By: IDRIAN ILGIN H. LIBO-ON</h2>
                <div id="navigation">
      
     <ul>
